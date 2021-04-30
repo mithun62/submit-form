@@ -1,0 +1,47 @@
+.form{
+      border:2px solid #0fb5df;
+      border-radius:6px;
+      margin:50px 0px;
+    }
+    legend{
+      color:#a51111;
+      font-weight:bold;
+      }
+    .name{
+      display:block;
+      padding:8px;
+      margin:7px 0px;
+      outline:none;
+      border-radius:6px;
+      border:2px solid red;
+      font-weight:bold;
+      color:green;
+    }  
+    .r{
+      display:inline;
+    }
+      .selectItem{
+        margin:10px 5px;
+        border-radius:5px;
+        outline:none;
+        background:rgb(151,0,0);
+        color:white;
+        padding:7px;
+        font-weight:bold;
+        
+      }
+      
+      .sub{
+        padding:9px 67px;
+        margin:8px 60px;
+        border-radius:10px;
+        font-weight:bold;
+        background:#06753b;
+        color:white;
+        outline:none;
+        
+      }
+      .inputitem{
+        margin:10px 8px;
+      }
+    
